@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @tukestolo
-- 👀 I’m interested in
--- iOS 📱,
--- development 🖥
--- soccer ⚽️
--- photo 📷
+- 👀 I’m interested in iOS 📱 development  🖥  soccer  ⚽️  photo  📷
 - 🌱 I’m currently learning swift
 - 📫 How to reach me :
 
